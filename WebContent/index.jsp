@@ -37,7 +37,7 @@ margin-top: 8%;
 <nav class="navbar navbar-default navbar-fixed-top">
 	<div class="navbar-header">
       <a class="navbar-brand" href="${pageContext.request.contextPath }/index.jsp">
-      		校车预约系统
+      		校车预约系统lakeTest
       	</a>
     </div>
 <div class="container">
